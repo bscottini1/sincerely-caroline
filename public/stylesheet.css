@@ -1,4 +1,27 @@
-body {
-    background: url(../Assets/close-up-photography-of-colored-pencils-743986.jpg)
+@font-face {
+    font-family: prissy;
+    src: url(../Assets/littlemisspriss-font/Littlemisspriss-LPlW.ttf)
 }
 
+html {
+    font-family: prissy;
+    background-color: lightcyan;
+}
+
+
+nav {
+    background-color: white;
+    font-family: prissy;
+}
+
+.navbar-text {
+    color: deeppink;
+    font-family: prissy;
+    font-size: 25pt;
+}
+
+.button {
+    color: lightcyan;
+    font-family: prissy;
+
+}
